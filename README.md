@@ -13,4 +13,4 @@ Sinta-se à vontade para navegar pelos arquivos, testar os scripts e acompanhar 
 - Configuração de conta gratuita no Google BigQuery
 
 ![Estudos](https://img-c.udemycdn.com/course/750x422/5564884_366b_4.jpg)
-# projetos_udemy
+
